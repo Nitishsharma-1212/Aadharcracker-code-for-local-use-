@@ -14,10 +14,12 @@ Built with Python and PyMuPDF, this tool operates entirely in-memory (RAM) to te
 Developed by **@Subtle0** & **@Mr_sid_001**.
 
 ---
-# For Without Install Use This Website By This Link: https://ultracode-plib.onrender.com
+## 🌐 Try It Live (No Installation Required)
 
--It Only For View And Its Take Some Time For Crack The Passwords For Better Result Use Local Insatll And Run And See Magic.
--It Crack The Passwords In Seconds.
+You can test the tool online without installing anything:  
+👉 **[Live Demo: https://ultracode-plib.onrender.com](https://ultracode-plib.onrender.com)**
+
+> **Note:** The cloud version is for demonstration purposes and runs on a free, limited-resource server, which makes cracking slower. For lightning-fast results (cracking passwords in seconds), we highly recommend installing and running the tool locally on your own machine to utilize your full CPU power!
 ---
 
 ## ✨ Key Features
@@ -54,7 +56,7 @@ sudo apt install python3 python3-venv python3-pip -y
 ### 2. Clone and Install
 ```bash
 git clone https://github.com/Nitishsharma-1212/Aadharcracker-code-for-local-use-.git
-cd Aadharcrack-v1
+cd Aadharcracker-code-for-local-use-
 chmod +x install.sh
 ./install.sh
 ```
